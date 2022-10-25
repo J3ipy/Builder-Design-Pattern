@@ -1,4 +1,4 @@
-# Builder feito em C# e Typerscript
+# Builder feito em C# e TypeScript
 > Material para estudo
 
 <div row>
