@@ -89,7 +89,7 @@ function clientCode(director: Director) {
     director.buildFullFeaturedProduct();
     builder.getCar().listParts();
 
-    // Remember, the Builder pattern can be used without a Director class.
+    // Feito sem passar o Director.
     console.log('Carro Personalizado: ');
     builder.carMotor();
     builder.carDoors();
